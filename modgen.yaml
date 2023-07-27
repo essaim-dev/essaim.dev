@@ -1,0 +1,6 @@
+host: go.essaim.dev
+
+modules:
+  - path: /modgen
+    vcs: git
+    repo-url: https://github.com/essaim-dev/modgen
