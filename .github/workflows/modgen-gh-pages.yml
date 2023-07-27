@@ -36,7 +36,7 @@ jobs:
         run: go install go.essaim.dev/modgen/cmd/modgen@latest
       - name: Generate site
         run: >
-          $GOPATH/bin/modgen
+          modgen
           -config "modgen.yaml"
           -target "_site/"
       - name: Upload artifact
