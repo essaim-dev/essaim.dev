@@ -1,6 +1,9 @@
 host: go.essaim.dev
 
 modules:
+  - path: /pex
+    vcs: git
+    repo-url: https://github.com/essaim-dev/pex
   - path: /modgen
     vcs: git
     repo-url: https://github.com/essaim-dev/modgen
