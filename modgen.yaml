@@ -7,3 +7,6 @@ modules:
   - path: /modgen
     vcs: git
     repo-url: https://github.com/essaim-dev/modgen
+  - path: /al
+    vcs: git
+    repo-url: https://github.com/essaim-dev/al
