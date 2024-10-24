@@ -6,4 +6,4 @@ modules:
     repo-url: https://github.com/essaim-dev/modgen
   - path: /mikro
     vcs: git
-    repo-url: https://github.com/essaim-dev/mirko
+    repo-url: https://github.com/essaim-dev/mikro
