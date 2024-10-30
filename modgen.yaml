@@ -7,3 +7,6 @@ modules:
   - path: /mikro
     vcs: git
     repo-url: https://github.com/essaim-dev/mikro
+  - path: /al
+    vcs: git
+    repo-url: https://github.com/essaim-dev/al
