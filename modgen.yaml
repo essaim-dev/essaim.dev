@@ -13,3 +13,7 @@ modules:
   - path: /tcnet
     vcs: git
     repo-url: https://github.com/essaim-dev/tcnet
+  - path: /essaim
+    vcs: git
+    repo-url: https://github.com/essaim-dev/essaim
+
