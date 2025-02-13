@@ -10,3 +10,6 @@ modules:
   - path: /al
     vcs: git
     repo-url: https://github.com/essaim-dev/al
+  - path: /tcnet
+    vcs: git
+    repo-url: https://github.com/essaim-dev/tcnet
